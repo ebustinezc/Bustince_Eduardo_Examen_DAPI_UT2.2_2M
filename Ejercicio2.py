@@ -13,4 +13,4 @@
 # NOTA: el programa nunca debe dejar de ejecutarse.
 
 dict,({})
-print,('dicionario vacio')
+print,('dicionario de clase')
